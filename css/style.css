@@ -6,7 +6,7 @@
 }
 .hero{
 	height: 110vh;
-	width: 200%;
+	width: 150%;
 	background-image: url(../img/yun%20lang.png);
 	background-size: cover;
 	background-position: center;
@@ -105,8 +105,8 @@ h4{
 }
 
 .about{
-	width: 100%;
-	padding: 100px 0px;
+	width: 1500%;
+	padding: 150px 0px;
 	background-color: #191919;
 }
 .about img{
